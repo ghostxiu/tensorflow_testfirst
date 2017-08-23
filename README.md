@@ -1,8 +1,6 @@
-根据网文，30分钟掌握STL打的，基本是照抄的，有些有误的地方修改了一下，使其可以正常运行
-原文地址：
-http://net.pku.edu.cn/~yhf/UsingSTL.htm
-
+尝试tensorflow和python
+tensorflow1.30+python2.7
 
 
 本目录地址：
-https://github.com/ghostxiu/stlin30minutes/
+https://github.com/ghostxiu/tensorflow_testfirst
