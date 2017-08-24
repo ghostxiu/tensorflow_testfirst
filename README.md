@@ -1,8 +1,11 @@
-根据网文，30分钟掌握STL打的，基本是照抄的，有些有误的地方修改了一下，使其可以正常运行
-原文地址：
-http://net.pku.edu.cn/~yhf/UsingSTL.htm
+tensorflow和python基础练习，源自tensorflow官网，其中一些地方我加上了中文注释
+当然这些你都可以去tensorflow官网查看。
 
-
+tensorflow官网地址：
+https://www.tensorflow.org/get_started/get_started
 
 本目录地址：
-https://github.com/ghostxiu/stlin30minutes/
+https://github.com/ghostxiu/tensorflow_testfirst
+
+运行环境：
+tensorflow1.3+cuda8+cudnn6.0+python2.7+gtx1060
