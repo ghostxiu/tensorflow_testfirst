@@ -9,3 +9,8 @@ https://github.com/ghostxiu/tensorflow_testfirst
 
 运行环境：
 tensorflow1.3+cuda8+cudnn6.0+python2.7+gtx1060
+
+关于以上tensorflow环境搭建，参考：
+http://x.wolfmark.org/x-select_2017-08-15_398.html
+
+2017.8.24
